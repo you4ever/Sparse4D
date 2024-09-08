@@ -1,3 +1,15 @@
 *.pyc
 *.npy
 *.pth
+output/**
+data/**
+work_dirs/**
+val/**
+projects/mmdet3d_plugin/ops/build/**
+projects/mmdet3d_plugin/**/*.so
+projects/mmdet3d_plugin/ops/deformable_aggregation_ext.egg-info/dependency_links.txt
+projects/mmdet3d_plugin/ops/deformable_aggregation_ext.egg-info/PKG-INFO
+projects/mmdet3d_plugin/ops/deformable_aggregation_ext.egg-info/SOURCES.txt
+projects/mmdet3d_plugin/ops/deformable_aggregation_ext.egg-info/top_level.txt
+projects/mmdet3d_plugin/ops/dist/deformable_aggregation_ext-0.0.0-py3.9-linux-x86_64.egg
+**/.ipynb_checkpoints/**
